@@ -1,0 +1,7 @@
+data/
+data_500_depth1/
+models/
+__pycache__/
+*.pyc
+*.npy
+*.pt
